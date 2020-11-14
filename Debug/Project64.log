@@ -1,0 +1,8 @@
+﻿  MyForm.cpp
+C:\Users\Evelyn\Desktop\Laberinto 2.0\MyForm.h(26,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Source.cpp
+C:\Users\Evelyn\Desktop\Laberinto 2.0\MyForm.h(26,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  Generando código...
+  MyForm.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Project64.vcxproj -> C:\Users\Evelyn\Desktop\Laberinto 2.0\Debug\Project64.exe

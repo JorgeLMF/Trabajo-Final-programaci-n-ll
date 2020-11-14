@@ -1,0 +1,5 @@
+C:\Users\Evelyn\Desktop\Laberinto 2.0\Debug\Project64.vcxprojAssemblyReference.cache
+C:\Users\Evelyn\Desktop\Laberinto 2.0\Debug\Project64.MyForm.resources
+C:\Users\Evelyn\Desktop\Laberinto 2.0\Debug\Project64.vcxproj.GenerateResource.cache
+C:\Users\Evelyn\Desktop\Laberinto 2.0\Debug\Project64.exe
+C:\Users\Evelyn\Desktop\Laberinto 2.0\Debug\Project64.pdb
